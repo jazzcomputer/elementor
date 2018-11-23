@@ -1,0 +1,8 @@
+As well as for displaying forms and messaging, Modal popups are really useful for displaying content. An example might be a single page artist's portfolio site that opens modals when the items are clicked on.
+Some things that would be useful in the modal feature:
+Allow modal to display full functioning templates or posts. This would require the content to be correcetly initialized and avoid problems with carousel buttons not working.
+Allow scrolling within the modal, but make sure it ONLY scrolls in the modal and doesn't scroll the body. Modals present a huge problem with this from what I understand. 
+Provide control over the placement of the close button(s) in the modal.
+Allow sticky menus within the modal that work correclty.
+Provide Static header and footer for scrolling content. 
+Provide advanced placement and sizing of the modal relative to the screen size / format.
